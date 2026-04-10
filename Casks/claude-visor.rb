@@ -1,6 +1,6 @@
 cask "claude-visor" do
   version "1.7.2"
-  sha256 "4766587764eb6e0a7021c661fc584559b4a44c801bf2f34b47f508cbd997213d"
+  sha256 "b461bc7d065ef8d8150ad33db0013f8f25410011af629d3f384001489d45ee28"
 
   url "https://github.com/824zzy/claude-visor/releases/download/v#{version}/ClaudeVisor-v#{version}.zip"
   name "Claude Visor"
